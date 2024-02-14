@@ -11,10 +11,13 @@ Welcome to agv's documentation!
    :caption: Contents:
 
 
-
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+.. image:: ./images/原理框图.png
+   :alt: 野火logo
+   :align: center
