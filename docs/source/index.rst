@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to agv's documentation!
+AGV
 ===============================
 
 .. toctree::
@@ -11,13 +11,19 @@ Welcome to agv's documentation!
    :caption: Contents:
 
 
-Indices and tables
-==================
+IO控制板
+
+.. image:: ./images/原理框图.png
+   :alt: 原理框图
+   :align: center
+
+
+.. image:: ./images/电源拓扑.png
+   :alt: 电源拓扑
+   :align: center
+
+
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. image:: ./images/原理框图.png
-   :alt: 野火logo
-   :align: center
